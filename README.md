@@ -1,5 +1,6 @@
 # Python Crash Course Alien Invasion Game
 Alien Invasion game that was created in *Python Crash Course* by Eric Matthes 
+! [Image of start screen] (https://github.com/AntonTrainer/Python_Crash_Course_Aliens/blob/master/game_screen_shot.png)
 
 ### See requirements.txt  
   *all scripts written in VS Code and run on Windows machine.*
